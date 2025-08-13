@@ -1,1 +1,11 @@
 @import "tailwindcss";
+
+.font-bebas-neue {
+    font-family: "Bebas Neue", sans-serif;
+
+}
+
+.roboto-regular {
+    font-family: "Roboto", sans-serif;
+
+}
